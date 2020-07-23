@@ -94,5 +94,6 @@ const styles = StyleSheet.create({
         fontSize: 14,
         color: '#FFFFFF',
     },
+    
 });
 export default Calculos;

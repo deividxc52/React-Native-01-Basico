@@ -21,4 +21,5 @@ const styles = StyleSheet.create({
      alignItems: "center",
      backgroundColor: '#f4e8c1',
   },
+  
 });
