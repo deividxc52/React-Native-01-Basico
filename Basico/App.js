@@ -9,6 +9,7 @@ export default class App extends Component{
       <View style={styles.container}>
         <BoasVindas saudacao='Bom dia!' />
         <Calculos/>
+        
       </View>
     );
   }

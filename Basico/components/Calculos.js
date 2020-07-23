@@ -54,6 +54,7 @@ const Calculos = () =>  {
 
         </View>
     );
+    
 };
 
 const styles = StyleSheet.create({
